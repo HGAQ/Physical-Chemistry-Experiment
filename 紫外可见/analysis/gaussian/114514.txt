@@ -1,0 +1,4 @@
+### Gaussian Calculation Schemes
+### GaussView 6.0.16
+### 86131, HGAQ, 
+### 2023/10/6 18:28:40
